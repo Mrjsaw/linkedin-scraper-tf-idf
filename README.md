@@ -1,5 +1,5 @@
 # linkedin-scraper-tf-idf
-This notebook explains how you can use web scraping techniques to build a data set that is then used in a TF-IDF model
+This project explains how you can use web scraping techniques to build a data set that is then used in a TF-IDF model
 
 If you rather use the notebook you can view it on:
 
